@@ -1,8 +1,19 @@
-## Hi there 👋
+
 <p align="center">
   <img src="https://i.ibb.co.com/HpgfX2p6/Black-Yellow-Modern-Programmer-Linked-In-Banner-1.png" alt="Hi, I'm Jobayer 👋 I'm a 🚀 Frontend developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
+## :link: Links
+
+<p align="center">
+
+  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
+
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+
+</p>
 <!--
 **Rayhan-Rony/rayhan-rony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
