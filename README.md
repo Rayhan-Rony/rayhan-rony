@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
 
 <!--
 **Rayhan-Rony/rayhan-rony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
