@@ -7,11 +7,11 @@
 
 <p align="center">
 
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+  <a href="https://www.linkedin.com/in/md-abu-jobayer/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   
 
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.facebook.com/jobayer.ahmedrony.92"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
 
 </p>
 <!--
