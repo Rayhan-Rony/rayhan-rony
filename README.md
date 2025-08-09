@@ -54,7 +54,8 @@ Always learning and exploring new web technologies to stay ahead.
 
 ## 📊 GitHub Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rayhan-rony)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=rayhan-rony)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayhan-rony&theme=dark)](https://git.io/streak-stats)
   
 <!--
 <p align="center">
