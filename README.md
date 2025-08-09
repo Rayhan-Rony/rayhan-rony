@@ -57,12 +57,12 @@ Always learning and exploring new web technologies to stay ahead.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 <!--
 **Rayhan-Rony/rayhan-rony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
